@@ -1,0 +1,10 @@
+1) First import bootstrap:
+
+Include via CDN => link & script (copy, paste index.html)
+
+2) bootstrap Icons:
+  Scroll Down last find CDN => Link (copy, paste index.html)
+
+
+3) Open terminal =>  cd db, copy & paste the line: 
+   json-server --watch db.json --port 3000
