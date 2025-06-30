@@ -7,7 +7,7 @@ function Sidebar() {
     
     <div className='m-4 position-fixed border-end pe-5'>
       <div className='d-flex flex-column gap-3 pe-5'>
-            <img className='logo-text' src="src\assets\Instagramtext.png" alt="" />
+            <img className='logo-text' src="\assets\Instagramtext.png" alt="Logo" />
             <div><i className="bi bi-house-door"></i>Home</div>
             <div><i className="bi bi-search"></i>Search</div>
             <div><i className="bi bi-compass"></i>Explore</div>
@@ -20,6 +20,8 @@ function Sidebar() {
             <div><i className="bi bi-dice-4"></i>AI Studio</div>
             <div><i className="bi bi-threads"></i>Threads</div>
       </div>
+
+      
     
     </div>
   )

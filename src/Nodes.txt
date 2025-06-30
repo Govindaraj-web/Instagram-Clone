@@ -8,3 +8,5 @@ Include via CDN => link & script (copy, paste index.html)
 
 3) Open terminal =>  cd db, copy & paste the line: 
    json-server --watch db.json --port 3000
+
+4) npm run build => app directly deploy on netlify

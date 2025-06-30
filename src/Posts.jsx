@@ -23,7 +23,11 @@ function Posts() {
                         <b>{post.likes}Likes</b>
                       </div>
                       <p>{post.caption}</p>
+                        <div className="spacemo d-md-none ">
+                      
                     </div>
+                    </div>
+                  
             ))}
         </div>
       ):(
@@ -32,7 +36,9 @@ function Posts() {
             </div>
       )
     }
+
     </div>
+    
   )
 }
 
